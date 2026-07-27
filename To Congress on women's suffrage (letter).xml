@@ -71,10 +71,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20260727004124576",
+	"id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?person_annotation_20260727004124576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-07-27T00:41:24.576Z",
-	"dcterms:modified": "2026-07-27T00:41:24.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/christofs",
 		"@type": [
@@ -85,9 +84,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20260727004124576#Target",
+		"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?person_annotation_20260727004124576#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -98,7 +98,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20260727004124576#Selector",
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?person_annotation_20260727004124576#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/signatures/persName"
 		}
@@ -150,10 +150,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20260727004352146",
+	"id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?place_annotation_20260727004352146",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-07-27T00:43:52.146Z",
-	"dcterms:modified": "2026-07-27T00:43:52.146Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/christofs",
 		"@type": [
@@ -164,9 +163,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20260727004352146#Target",
+		"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?place_annotation_20260727004352146#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -177,7 +177,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20260727004352146#Selector",
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?place_annotation_20260727004352146#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/placeName"
 		}
@@ -230,10 +230,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20260727004437880",
+	"id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?date_annotation_20260727004437880",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-07-27T00:44:37.880Z",
-	"dcterms:modified": "2026-07-27T00:44:37.880Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/christofs",
 		"@type": [
@@ -244,9 +243,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20260727004437880#Target",
+		"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?date_annotation_20260727004437880#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -257,7 +257,7 @@
 			"schema:softwareVersion": "4.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20260727004437880#Selector",
+			"@id": "https://raw.githubusercontent.com/christofs/leaf-writer-test/main/To%20Congress%20on%20women's%20suffrage%20(letter).xml?date_annotation_20260727004437880#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/date"
 		}
@@ -300,7 +300,7 @@
 			</div>
 			<div>
 				<head>Section 2</head>
-			<p>And they pray further that they may be permitted in person, and in behalf of the
+			<p>And they pray further that they may be permitted in person, </p><p/><p/><p>and in behalf of the
 				thousands of other women who are petitioning Congress to the same effect to be heard
 				upon this Memmoiral before the Senate and House at an early day in the present
 				Session.</p>
